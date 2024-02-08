@@ -1,4 +1,10 @@
 # README
+more proxy settings: https://www.linkedin.com/pulse/utilizing-server-proxy-cross-origin-requests-vitejs-apoorve-verma-/ 
+
+
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
